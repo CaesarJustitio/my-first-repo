@@ -5,3 +5,5 @@ NPM : 2206082373
 Kelas : PBP E
 
 Hobi : Belajar
+
+Jurusan : Sistem Informasi
